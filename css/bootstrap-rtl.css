@@ -1,0 +1,53 @@
+body {
+	direction:rtl;
+	background-color:#313131;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 24px;
+    font-size: 16px;
+    color: #fff;
+}
+
+/* header */
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #199cdc;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+/* /header */
+/* /section service */
+.sec-title h2 {
+    font-size: 36px;
+    margin: 0 0 30px;
+    padding-bottom: 30px;
+    position: relative;
+    text-transform: uppercase;
+    color: #fff;
+}
+/* /section service */
+/* contact */
+.fa-map-marker:before {
+    margin: 0px 10px;
+}
+/* /contact */
+/* footer */
+.submit-icon {
+    background-color: #7f7f7f;
+    border: 0 none;
+    border-radius: 0;
+    color: #c1c1c1;
+    padding: 13px 20px;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+    top: 0;
+}
+
+/* /footer */
